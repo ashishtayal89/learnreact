@@ -74,6 +74,9 @@ This is a step by step guide to get started with react.
 
 ### Context
 
+Data is passed in react top down. Sometimes we need to pass data to multiple components and want to skip the passing it down the chin.
+We use **Context** api for this purpose.
+
 ### JXS in depth
 
 ### Integrating with other libraries
